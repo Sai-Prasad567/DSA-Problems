@@ -18,8 +18,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0015-3sum) |
+| [0940-fruit-into-baskets](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0940-fruit-into-baskets) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
