@@ -20,18 +20,33 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0016-3sum-closest) |
+| [0268-missing-number](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0268-missing-number) |
 | [0940-fruit-into-baskets](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0940-fruit-into-baskets) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
