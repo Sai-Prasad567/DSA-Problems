@@ -52,12 +52,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -76,4 +79,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Sai-Prasad567/DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
